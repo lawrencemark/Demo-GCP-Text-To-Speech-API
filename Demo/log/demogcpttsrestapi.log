@@ -1,0 +1,4 @@
+2024-10-17T12:29:54.686+01:00  INFO 17612 --- [gcptexttospeechdemo] [main] g.a.c.d.GcptexttospeechdemoApplication   : Started GcptexttospeechdemoApplication in 1.511 seconds (process running for 1.859)
+2024-10-17T12:30:00.354+01:00  INFO 17612 --- [gcptexttospeechdemo] [reactor-http-nio-3] g.aexp.com.demo.GcpTTSService            : SynthesizeSpeechResponse received: 16512 bytes
+2024-10-17T12:31:44.351+01:00  INFO 17612 --- [gcptexttospeechdemo] [reactor-http-nio-5] g.aexp.com.demo.GcpTTSService            : SynthesizeSpeechResponse received: 16512 bytes
+2024-10-17T12:37:38.086+01:00  INFO 17612 --- [gcptexttospeechdemo] [reactor-http-nio-7] g.aexp.com.demo.GcpTTSService            : SynthesizeSpeechResponse received: 16512 bytes
